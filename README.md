@@ -119,10 +119,11 @@ food-freshness-analyzer/
 ├── requirements.txt
 └── .gitignore
 <!-- How to Run -->
-git clone https://github.com/yourusername/food-freshness-analyzer.git
+
+git clone https://github.com/katelynn3/food-freshness-analyzer.git
 cd food-freshness-analyzer
 pip install -r requirements.txt
-jupyter notebook
+python src/food_freshness_analyzer.py
 
 <!-- Future Improvements -->
 
