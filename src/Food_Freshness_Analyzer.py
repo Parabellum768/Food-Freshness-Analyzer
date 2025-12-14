@@ -28,7 +28,7 @@ for i in range(200):
     else:
         label = "Spoiled"
 
-data.append([temp, humidity, time_stored, gas, label])
+    data.append([temp, humidity, time_stored, gas, label])
 
 df = pd.DataFrame(data, columns = ["Temperature", "Humidity", "Time", "Gas", "Label"])
 df.to_csv("food_freshness.csv", index=False)
